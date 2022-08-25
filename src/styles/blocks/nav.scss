@@ -22,6 +22,8 @@
     text-decoration: none;
     color: $typographyPrimary;
 
+    transition: all 400ms ease-in-out;
+
     &:hover {
       color: $colorSecondary;
     }
